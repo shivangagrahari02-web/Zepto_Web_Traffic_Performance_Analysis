@@ -1,9 +1,10 @@
 ## Executive Summary
-
-Zepto operates in a fast-moving quick-commerce environment where even small changes in web traffic, user behavior, and funnel performance can impact conversion rates and business growth. To understand what was affecting user engagement, I analyzed traffic and conversion data across the website and app to identify where users were dropping off and which metrics were moving the overall funnel.
- 
-Study web traffic and conversion behavior, identify the key drivers behind declining performance, and translate the findings into clear business insights that could help improve user engagement and conversion efficiency.
-
-Cleaned and structured the dataset, defined KPIs, and analyzed traffic patterns using Tableau, SQL, and data storytelling techniques. Built interactive dashboards to track 8+ performance metrics such as conversion rate, bounce rate, and engagement trends, then used those views to compare behavior across devices, channels, and user segments.
-  
-The analysis highlighted where traffic quality was weakening, which funnel stages were underperforming, and how user behavior differed across website and app journeys. This helped surface practical recommendations around conversion optimization, engagement improvement, and digital strategy. The project strengthened my ability to connect product analytics with business outcomes in a marketplace setting.
+- Analyzed Zepto’s website traffic and user behavior to identify conversion bottlenecks, evaluate acquisition channel performance, and improve digital marketing effectiveness through data-driven insights.
+- Cleaned and transformed web analytics data, designed a KPI framework, and developed an interactive Tableau dashboard to monitor **Sessions, Conversion Rate, Bounce Rate, Average Session Duration, Page Views per Session,** and **Traffic Source Contribution**.
+- Performed multi-dimensional analysis across **traffic sources, device types, visitor segments (new vs returning), browsers, operating systems,** and **daily trends** to uncover patterns influencing user engagement and conversions.
+- Identified that **Organic** and **Direct** channels generated the majority of sessions and conversions, while **Paid** traffic delivered high volume but comparatively lower conversion efficiency, highlighting opportunities to improve marketing ROI.
+- Found a strong relationship between **higher session duration, increased page views,** and improved conversion rates, whereas high bounce-rate segments consistently showed weaker conversion performance.
+- Discovered that **mobile users** contributed the highest traffic volume, while **desktop users** demonstrated stronger engagement and higher conversion rates, supporting device-specific optimization strategies.
+- Observed that **returning visitors** consistently outperformed first-time users in engagement and conversion, emphasizing the importance of customer retention and re-engagement initiatives.
+- Identified significant drop-offs between website visits and completed transactions, revealing critical conversion funnel optimization opportunities to improve user journey performance.
+- Delivered actionable business recommendations to optimize **traffic acquisition, conversion rates, marketing ROI, user retention,** and **digital growth strategy** through interactive dashboards and executive-level data storytelling.
